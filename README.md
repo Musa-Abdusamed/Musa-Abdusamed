@@ -1,7 +1,7 @@
 ## 👋 HI,I'm Musa Abdusamed
 
 🎓 Student at **Adama Science & Technology University (ASTU)**  
-💻 **Frontend Developer** | ⚡ **Competitive Programmer** | 📚 **Applied Mathematics Enthusiast**
+💻 **Frontend Developer** | ⚡ **Competitive Programmer** | 📚 **ECE Enthusiast**
 
 ---
 
