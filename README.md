@@ -48,5 +48,7 @@ My focus areas include **dynamic programming**, **graph theory**, and **optimiza
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Abdusamed&layout=compact&theme=tokyonight)
+
 ### ✨ “Code is like art — every line should have purpose and beauty.”
 
