@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 I’m passionate about building responsive, user-friendly web applications and solving algorithmic challenges.  
-My journey blends creativity and logic — from crafting dynamic interfaces to tackling complex problems in C++ and Python.  
+My journey blends creativity and logic — from crafting dynamic interfaces to tackling complex problems in C++,js, and Python.  
 
 - 🌐 Skilled in **React**, **Vite**, **HTML**, **CSS**, and **JavaScript**  
 - 🧩 Experienced in **problem-solving** and **data structures**  
