@@ -19,8 +19,8 @@ My journey blends creativity and logic — from crafting dynamic interfaces to t
 ## 🛠️ Tech Stack
 | Category | Tools |
 |-----------|-------|
-| **Languages** | C++, Python, JavaScript |
-| **Frontend** | React, Vite, HTML, CSS |
+| **Languages** | C++, Python, JavaScript,TypeScript |
+| **Frontend** | React, Vite, HTML, CSS ,Tailwind CSS|
 | **Version Control** | Git, GitHub |
 | **Other Interests** | Algorithms, Electronics |
 
