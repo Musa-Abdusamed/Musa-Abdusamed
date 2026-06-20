@@ -1,8 +1,5 @@
 ## 👋 HI,I'm Musa Abdusamed
 
-<!--
-# 👋 Hi, I'm Musa Abdusamed  
-
 🎓 Student at **Adama Science & Technology University (ASTU)**  
 💻 **Frontend Developer** | ⚡ **Competitive Programmer** | 📚 **Applied Mathematics Enthusiast**
 
@@ -14,7 +11,7 @@ My journey blends creativity and logic — from crafting dynamic interfaces to t
 
 - 🌐 Skilled in **React**, **Vite**, **HTML**, **CSS**, and **JavaScript**  
 - 🧩 Experienced in **problem-solving** and **data structures**  
-- 🔬 Interested in **semiconductors**, **electronics**, and **mathematical modeling**  
+- 🔬 Interested in **frontend**, **electronics**, and **competitive programing **  
 - 💡 Always learning, improving, and sharing knowledge  
 
 ---
@@ -52,5 +49,4 @@ My focus areas include **dynamic programming**, **graph theory**, and **optimiza
 ---
 
 ### ✨ “Code is like art — every line should have purpose and beauty.”
-.
--->
+
