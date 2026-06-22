@@ -1,4 +1,4 @@
-## 👋 HI,I'm Musa Abdusamed
+## 👋 HI,I'm Musa
 
 🎓 Student at **Adama Science & Technology University (ASTU)**  
 💻 **Frontend Developer** | ⚡ **Competitive Programmer** | 📚 **ECE Student**
