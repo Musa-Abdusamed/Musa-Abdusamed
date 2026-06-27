@@ -37,7 +37,7 @@ My focus areas include **dynamic programming**, **graph theory**, and **optimiza
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/Muaabdusamed)  
 
 
-## 🌐 Connect with Me
+## 🌐 Connect Me With
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightblue)](https://www.linkedin.com/in/musa-abdusamed-aa9365350/)  
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/musaAbdusamed)
 
